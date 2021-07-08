@@ -1,5 +1,5 @@
 # FIFA-Match-predictor
 Built a classification model to predict the outcomes of a FIFA world cup match
 
-##Introduction
+## Introduction
 The goal of this project is to predict match outcomes of WorldCup football matches accurately. Based on the dataset provided on kaggle.com that includes basic match data, I built a model to predict the probability of each match outcome – win, draw, or defeat.
